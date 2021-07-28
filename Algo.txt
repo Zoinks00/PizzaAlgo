@@ -1,4 +1,10 @@
 1. Make pizza order
+ 1a. repeat address
+ 1b. repeat customer order
+ 1c. if no issues make pizza
 2. Deliver pizza
+ 2a. make sure you're at right address
+ 2b. make sure pizza has not tipped
+ 2c. knock on door, confirm customer name
 3. take payment
 4. Return to pizza place
